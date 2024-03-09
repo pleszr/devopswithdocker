@@ -1,2 +1,2 @@
-# [devopswithdocker](https://devopswithdocker.com/)https://devopswithdocker.com/
-devopswithdocker docker course
+# devopswithdocker.com
+[devopswithdocker](https://devopswithdocker.com/)https://devopswithdocker.com/ docker course
